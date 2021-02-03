@@ -1,0 +1,19 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:24 PM    <DIR>          blockstates
+02/03/2021  03:24 PM    <DIR>          font
+02/03/2021  03:56 PM                83 gpu_warnlist.json
+02/03/2021  03:24 PM    <DIR>          lang
+02/03/2021  03:24 PM    <DIR>          models
+02/03/2021  03:24 PM    <DIR>          particles
+02/03/2021  03:24 PM    <DIR>          shaders
+02/03/2021  03:24 PM    <DIR>          texts
+02/03/2021  03:24 PM    <DIR>          textures
+               2 File(s)             83 bytes
+              10 Dir(s)  37,123,047,424 bytes free

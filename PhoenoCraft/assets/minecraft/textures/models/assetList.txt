@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\models
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM    <DIR>          armor
+02/03/2021  03:24 PM                 0 assetList.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  37,123,325,952 bytes free

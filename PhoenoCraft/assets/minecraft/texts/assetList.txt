@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\texts
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM            10,566 credits.txt
+02/03/2021  03:56 PM             8,762 end.txt
+02/03/2021  03:56 PM             8,540 splashes.txt
+               4 File(s)         27,868 bytes
+               2 Dir(s)  37,125,283,840 bytes free

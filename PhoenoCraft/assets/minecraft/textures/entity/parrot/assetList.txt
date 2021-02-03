@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\parrot
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               668 parrot_blue.png
+02/03/2021  03:56 PM               587 parrot_green.png
+02/03/2021  03:56 PM               444 parrot_grey.png
+02/03/2021  03:56 PM               723 parrot_red_blue.png
+02/03/2021  03:56 PM               656 parrot_yellow_blue.png
+               6 File(s)          3,078 bytes
+               2 Dir(s)  37,124,513,792 bytes free

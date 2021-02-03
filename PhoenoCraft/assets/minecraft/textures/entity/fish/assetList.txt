@@ -1,0 +1,27 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\fish
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               320 cod.png
+02/03/2021  03:56 PM               696 pufferfish.png
+02/03/2021  03:56 PM             1,412 salmon.png
+02/03/2021  03:56 PM             1,200 tropical_a.png
+02/03/2021  03:56 PM             1,185 tropical_a_pattern_1.png
+02/03/2021  03:56 PM             1,186 tropical_a_pattern_2.png
+02/03/2021  03:56 PM             1,187 tropical_a_pattern_3.png
+02/03/2021  03:56 PM             1,198 tropical_a_pattern_4.png
+02/03/2021  03:56 PM               219 tropical_a_pattern_5.png
+02/03/2021  03:56 PM             1,198 tropical_a_pattern_6.png
+02/03/2021  03:56 PM             1,225 tropical_b.png
+02/03/2021  03:56 PM             1,196 tropical_b_pattern_1.png
+02/03/2021  03:56 PM             1,210 tropical_b_pattern_2.png
+02/03/2021  03:56 PM             1,202 tropical_b_pattern_3.png
+02/03/2021  03:56 PM             1,203 tropical_b_pattern_4.png
+02/03/2021  03:56 PM             1,196 tropical_b_pattern_5.png
+02/03/2021  03:56 PM             1,202 tropical_b_pattern_6.png
+              18 File(s)         18,235 bytes
+               2 Dir(s)  37,124,792,320 bytes free

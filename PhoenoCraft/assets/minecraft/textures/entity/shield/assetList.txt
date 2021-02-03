@@ -1,0 +1,51 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\shield
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               166 base.png
+02/03/2021  03:56 PM               164 border.png
+02/03/2021  03:56 PM               214 bricks.png
+02/03/2021  03:56 PM               187 circle.png
+02/03/2021  03:56 PM               181 creeper.png
+02/03/2021  03:56 PM               192 cross.png
+02/03/2021  03:56 PM               190 curly_border.png
+02/03/2021  03:56 PM               196 diagonal_left.png
+02/03/2021  03:56 PM               187 diagonal_right.png
+02/03/2021  03:56 PM               187 diagonal_up_left.png
+02/03/2021  03:56 PM               197 diagonal_up_right.png
+02/03/2021  03:56 PM               193 flower.png
+02/03/2021  03:56 PM               206 globe.png
+02/03/2021  03:56 PM               300 gradient.png
+02/03/2021  03:56 PM               300 gradient_up.png
+02/03/2021  03:56 PM               168 half_horizontal.png
+02/03/2021  03:56 PM               168 half_horizontal_bottom.png
+02/03/2021  03:56 PM               170 half_vertical.png
+02/03/2021  03:56 PM               169 half_vertical_right.png
+02/03/2021  03:56 PM               201 mojang.png
+02/03/2021  03:56 PM               121 piglin.png
+02/03/2021  03:56 PM               193 rhombus.png
+02/03/2021  03:56 PM               224 skull.png
+02/03/2021  03:56 PM               167 small_stripes.png
+02/03/2021  03:56 PM               178 square_bottom_left.png
+02/03/2021  03:56 PM               182 square_bottom_right.png
+02/03/2021  03:56 PM               181 square_top_left.png
+02/03/2021  03:56 PM               184 square_top_right.png
+02/03/2021  03:56 PM               181 straight_cross.png
+02/03/2021  03:56 PM               174 stripe_bottom.png
+02/03/2021  03:56 PM               175 stripe_center.png
+02/03/2021  03:56 PM               198 stripe_downleft.png
+02/03/2021  03:56 PM               189 stripe_downright.png
+02/03/2021  03:56 PM               175 stripe_left.png
+02/03/2021  03:56 PM               180 stripe_middle.png
+02/03/2021  03:56 PM               173 stripe_right.png
+02/03/2021  03:56 PM               174 stripe_top.png
+02/03/2021  03:56 PM               184 triangles_bottom.png
+02/03/2021  03:56 PM               181 triangles_top.png
+02/03/2021  03:56 PM               187 triangle_bottom.png
+02/03/2021  03:56 PM               187 triangle_top.png
+              42 File(s)          7,724 bytes
+               2 Dir(s)  37,124,374,528 bytes free

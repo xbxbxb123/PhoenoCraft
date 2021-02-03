@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\gui\advancements
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:24 PM    <DIR>          backgrounds
+02/03/2021  03:56 PM             1,467 tabs.png
+02/03/2021  03:56 PM             1,506 widgets.png
+02/03/2021  03:56 PM             1,424 window.png
+               4 File(s)          4,397 bytes
+               3 Dir(s)  37,123,813,376 bytes free

@@ -1,0 +1,20 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\chest
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,580 christmas.png
+02/03/2021  03:56 PM             1,301 christmas_left.png
+02/03/2021  03:56 PM             1,286 christmas_right.png
+02/03/2021  03:56 PM               942 ender.png
+02/03/2021  03:56 PM             1,021 normal.png
+02/03/2021  03:56 PM             1,024 normal_left.png
+02/03/2021  03:56 PM             1,076 normal_right.png
+02/03/2021  03:56 PM             1,090 trapped.png
+02/03/2021  03:56 PM             1,060 trapped_left.png
+02/03/2021  03:56 PM             1,108 trapped_right.png
+              11 File(s)         11,488 bytes
+               2 Dir(s)  37,124,931,584 bytes free

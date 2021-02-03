@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\bee
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               573 bee.png
+02/03/2021  03:56 PM               577 bee_angry.png
+02/03/2021  03:56 PM               660 bee_angry_nectar.png
+02/03/2021  03:56 PM               659 bee_nectar.png
+02/03/2021  03:56 PM               108 bee_stinger.png
+               6 File(s)          2,577 bytes
+               2 Dir(s)  37,125,070,848 bytes free

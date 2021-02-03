@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\wither
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,084 wither.png
+02/03/2021  03:56 PM             2,344 wither_armor.png
+02/03/2021  03:56 PM             1,018 wither_invulnerable.png
+               4 File(s)          4,446 bytes
+               2 Dir(s)  37,124,096,000 bytes free

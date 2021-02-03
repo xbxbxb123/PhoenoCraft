@@ -1,0 +1,27 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\models\armor
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               299 chainmail_layer_1.png
+02/03/2021  03:56 PM               180 chainmail_layer_2.png
+02/03/2021  03:56 PM               663 diamond_layer_1.png
+02/03/2021  03:56 PM               340 diamond_layer_2.png
+02/03/2021  03:56 PM               599 gold_layer_1.png
+02/03/2021  03:56 PM               344 gold_layer_2.png
+02/03/2021  03:56 PM               560 iron_layer_1.png
+02/03/2021  03:56 PM               307 iron_layer_2.png
+02/03/2021  03:56 PM               552 leather_layer_1.png
+02/03/2021  03:56 PM               189 leather_layer_1_overlay.png
+02/03/2021  03:56 PM               322 leather_layer_2.png
+02/03/2021  03:56 PM               181 leather_layer_2_overlay.png
+02/03/2021  03:56 PM               641 netherite_layer_1.png
+02/03/2021  03:56 PM               331 netherite_layer_2.png
+02/03/2021  03:56 PM               960 piglin_leather_layer_1.png
+02/03/2021  03:56 PM               275 piglin_leather_layer_1_overlay.png
+02/03/2021  03:56 PM               320 turtle_layer_1.png
+              18 File(s)          7,063 bytes
+               2 Dir(s)  37,123,325,952 bytes free

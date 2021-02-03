@@ -1,0 +1,42 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\mob_effect
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:56 PM               484 absorption.png
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               311 bad_omen.png
+02/03/2021  03:56 PM               337 blindness.png
+02/03/2021  03:56 PM               302 conduit_power.png
+02/03/2021  03:56 PM               205 dolphins_grace.png
+02/03/2021  03:56 PM               390 fire_resistance.png
+02/03/2021  03:56 PM               314 glowing.png
+02/03/2021  03:56 PM               232 haste.png
+02/03/2021  03:56 PM               319 health_boost.png
+02/03/2021  03:56 PM               247 hero_of_the_village.png
+02/03/2021  03:56 PM               311 hunger.png
+02/03/2021  03:56 PM               197 instant_damage.png
+02/03/2021  03:56 PM               210 instant_health.png
+02/03/2021  03:56 PM               250 invisibility.png
+02/03/2021  03:56 PM               289 jump_boost.png
+02/03/2021  03:56 PM               294 levitation.png
+02/03/2021  03:56 PM               219 luck.png
+02/03/2021  03:56 PM               216 mining_fatigue.png
+02/03/2021  03:56 PM               395 nausea.png
+02/03/2021  03:56 PM               276 night_vision.png
+02/03/2021  03:56 PM               189 poison.png
+02/03/2021  03:56 PM               200 regeneration.png
+02/03/2021  03:56 PM               333 resistance.png
+02/03/2021  03:56 PM               337 saturation.png
+02/03/2021  03:56 PM               243 slowness.png
+02/03/2021  03:56 PM               229 slow_falling.png
+02/03/2021  03:56 PM               265 speed.png
+02/03/2021  03:56 PM               234 strength.png
+02/03/2021  03:56 PM               214 unluck.png
+02/03/2021  03:56 PM               318 water_breathing.png
+02/03/2021  03:56 PM               217 weakness.png
+02/03/2021  03:56 PM               370 wither.png
+              33 File(s)          8,947 bytes
+               2 Dir(s)  37,123,395,584 bytes free

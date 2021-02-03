@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\strider
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,465 strider.png
+02/03/2021  03:56 PM             1,551 strider_cold.png
+02/03/2021  03:56 PM               365 strider_saddle.png
+               4 File(s)          3,381 bytes
+               2 Dir(s)  37,124,235,264 bytes free

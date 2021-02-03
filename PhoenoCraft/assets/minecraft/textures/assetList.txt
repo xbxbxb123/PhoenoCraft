@@ -1,0 +1,24 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:24 PM    <DIR>          block
+02/03/2021  03:24 PM    <DIR>          colormap
+02/03/2021  03:24 PM    <DIR>          effect
+02/03/2021  03:24 PM    <DIR>          entity
+02/03/2021  03:24 PM    <DIR>          environment
+02/03/2021  03:24 PM    <DIR>          font
+02/03/2021  03:24 PM    <DIR>          gui
+02/03/2021  03:24 PM    <DIR>          item
+02/03/2021  03:24 PM    <DIR>          map
+02/03/2021  03:24 PM    <DIR>          misc
+02/03/2021  03:24 PM    <DIR>          mob_effect
+02/03/2021  03:24 PM    <DIR>          models
+02/03/2021  03:24 PM    <DIR>          painting
+02/03/2021  03:24 PM    <DIR>          particle
+               1 File(s)              0 bytes
+              16 Dir(s)  37,123,117,056 bytes free

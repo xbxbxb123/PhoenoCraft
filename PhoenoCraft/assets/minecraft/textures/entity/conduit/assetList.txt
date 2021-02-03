@@ -1,0 +1,19 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\conduit
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               315 base.png
+02/03/2021  03:56 PM               261 break_particle.png
+02/03/2021  03:56 PM               463 cage.png
+02/03/2021  03:56 PM               156 closed_eye.png
+02/03/2021  03:56 PM               195 open_eye.png
+02/03/2021  03:56 PM               476 wind.png
+02/03/2021  03:56 PM                62 wind.png.mcmeta
+02/03/2021  03:56 PM               486 wind_vertical.png
+02/03/2021  03:56 PM                62 wind_vertical.png.mcmeta
+              10 File(s)          2,476 bytes
+               2 Dir(s)  37,124,861,952 bytes free

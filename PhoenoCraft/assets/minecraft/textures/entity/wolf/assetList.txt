@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\wolf
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,392 wolf.png
+02/03/2021  03:56 PM             1,651 wolf_angry.png
+02/03/2021  03:56 PM             2,807 wolf_collar.png
+02/03/2021  03:56 PM             1,573 wolf_tame.png
+               5 File(s)          7,423 bytes
+               2 Dir(s)  37,124,096,000 bytes free

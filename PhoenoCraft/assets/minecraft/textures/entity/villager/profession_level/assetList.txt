@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\villager\profession_level
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               188 diamond.png
+02/03/2021  03:56 PM               191 emerald.png
+02/03/2021  03:56 PM               184 gold.png
+02/03/2021  03:56 PM               130 iron.png
+02/03/2021  03:56 PM               134 stone.png
+               6 File(s)            827 bytes
+               2 Dir(s)  37,124,165,632 bytes free

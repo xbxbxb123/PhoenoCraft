@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\map
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,372 map_background.png
+02/03/2021  03:56 PM               876 map_background_checkerboard.png
+02/03/2021  03:56 PM               750 map_icons.png
+               4 File(s)          2,998 bytes
+               2 Dir(s)  37,123,534,848 bytes free

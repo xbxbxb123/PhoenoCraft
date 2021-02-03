@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\hoglin
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             2,559 hoglin.png
+02/03/2021  03:56 PM             2,962 zoglin.png
+               3 File(s)          5,521 bytes
+               2 Dir(s)  37,124,792,320 bytes free

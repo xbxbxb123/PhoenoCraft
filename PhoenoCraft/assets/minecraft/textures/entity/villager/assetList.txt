@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\villager
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:24 PM    <DIR>          profession
+02/03/2021  03:24 PM    <DIR>          profession_level
+02/03/2021  03:24 PM    <DIR>          type
+02/03/2021  03:56 PM             1,043 villager.png
+               2 File(s)          1,043 bytes
+               5 Dir(s)  37,124,096,000 bytes free

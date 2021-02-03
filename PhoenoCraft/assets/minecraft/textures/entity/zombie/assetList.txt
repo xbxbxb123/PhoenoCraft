@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\zombie
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               665 drowned.png
+02/03/2021  03:56 PM             1,334 drowned_outer_layer.png
+02/03/2021  03:56 PM             1,119 husk.png
+02/03/2021  03:56 PM             1,007 zombie.png
+02/03/2021  03:56 PM             1,359 zombie_villager.png
+               6 File(s)          5,484 bytes
+               2 Dir(s)  37,124,096,000 bytes free

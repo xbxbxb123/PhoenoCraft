@@ -1,0 +1,28 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\shulker
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,894 shulker.png
+02/03/2021  03:56 PM             1,335 shulker_black.png
+02/03/2021  03:56 PM             1,495 shulker_blue.png
+02/03/2021  03:56 PM             1,522 shulker_brown.png
+02/03/2021  03:56 PM             1,510 shulker_cyan.png
+02/03/2021  03:56 PM             1,442 shulker_gray.png
+02/03/2021  03:56 PM             1,493 shulker_green.png
+02/03/2021  03:56 PM             1,492 shulker_light_blue.png
+02/03/2021  03:56 PM             1,465 shulker_light_gray.png
+02/03/2021  03:56 PM             1,554 shulker_lime.png
+02/03/2021  03:56 PM             1,520 shulker_magenta.png
+02/03/2021  03:56 PM             1,554 shulker_orange.png
+02/03/2021  03:56 PM             1,553 shulker_pink.png
+02/03/2021  03:56 PM             1,491 shulker_purple.png
+02/03/2021  03:56 PM             1,518 shulker_red.png
+02/03/2021  03:56 PM             1,482 shulker_white.png
+02/03/2021  03:56 PM             1,586 shulker_yellow.png
+02/03/2021  03:56 PM               776 spark.png
+              19 File(s)         26,682 bytes
+               2 Dir(s)  37,124,304,896 bytes free

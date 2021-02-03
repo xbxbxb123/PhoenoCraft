@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\fox
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               657 fox.png
+02/03/2021  03:56 PM               655 fox_sleep.png
+02/03/2021  03:56 PM               683 snow_fox.png
+02/03/2021  03:56 PM               682 snow_fox_sleep.png
+               5 File(s)          2,677 bytes
+               2 Dir(s)  37,124,792,320 bytes free

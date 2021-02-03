@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\font
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:56 PM             2,047 alt.json
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM            19,043 default.json
+02/03/2021  03:56 PM            65,536 glyph_sizes.bin
+02/03/2021  03:56 PM               202 uniform.json
+               5 File(s)         86,828 bytes
+               2 Dir(s)  37,125,771,264 bytes free

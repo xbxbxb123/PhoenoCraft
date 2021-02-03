@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\gui\container\creative_inventory
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,715 tabs.png
+02/03/2021  03:56 PM             1,125 tab_inventory.png
+02/03/2021  03:56 PM               965 tab_items.png
+02/03/2021  03:56 PM             1,005 tab_item_search.png
+               5 File(s)          4,810 bytes
+               2 Dir(s)  37,123,813,376 bytes free

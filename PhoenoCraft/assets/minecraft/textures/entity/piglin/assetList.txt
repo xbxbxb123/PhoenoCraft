@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\piglin
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,128 piglin.png
+02/03/2021  03:56 PM             1,460 piglin_brute.png
+02/03/2021  03:56 PM             1,549 zombified_piglin.png
+               4 File(s)          4,137 bytes
+               2 Dir(s)  37,124,513,792 bytes free

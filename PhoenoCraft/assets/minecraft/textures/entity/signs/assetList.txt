@@ -1,0 +1,18 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\signs
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:56 PM               659 acacia.png
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               803 birch.png
+02/03/2021  03:56 PM               685 crimson.png
+02/03/2021  03:56 PM               604 dark_oak.png
+02/03/2021  03:56 PM               723 jungle.png
+02/03/2021  03:56 PM             1,009 oak.png
+02/03/2021  03:56 PM               613 spruce.png
+02/03/2021  03:56 PM               654 warped.png
+               9 File(s)          5,750 bytes
+               2 Dir(s)  37,124,235,264 bytes free

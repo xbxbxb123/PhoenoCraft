@@ -1,0 +1,37 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\painting
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:56 PM               811 alban.png
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               851 aztec.png
+02/03/2021  03:56 PM               819 aztec2.png
+02/03/2021  03:56 PM               242 back.png
+02/03/2021  03:56 PM               841 bomb.png
+02/03/2021  03:56 PM             4,720 burning_skull.png
+02/03/2021  03:56 PM             2,803 bust.png
+02/03/2021  03:56 PM             1,612 courbet.png
+02/03/2021  03:56 PM             1,491 creebet.png
+02/03/2021  03:56 PM             6,515 donkey_kong.png
+02/03/2021  03:56 PM             5,387 fighters.png
+02/03/2021  03:56 PM             1,239 graham.png
+02/03/2021  03:56 PM               900 kebab.png
+02/03/2021  03:56 PM             1,902 match.png
+02/03/2021  03:56 PM             9,322 pigscene.png
+02/03/2021  03:56 PM               779 plant.png
+02/03/2021  03:56 PM             9,517 pointer.png
+02/03/2021  03:56 PM             1,528 pool.png
+02/03/2021  03:56 PM             1,492 sea.png
+02/03/2021  03:56 PM             8,537 skeleton.png
+02/03/2021  03:56 PM             2,886 skull_and_roses.png
+02/03/2021  03:56 PM             2,064 stage.png
+02/03/2021  03:56 PM             1,112 sunset.png
+02/03/2021  03:56 PM             2,878 void.png
+02/03/2021  03:56 PM             1,373 wanderer.png
+02/03/2021  03:56 PM               736 wasteland.png
+02/03/2021  03:56 PM             2,324 wither.png
+              28 File(s)         74,681 bytes
+               2 Dir(s)  37,123,256,320 bytes free

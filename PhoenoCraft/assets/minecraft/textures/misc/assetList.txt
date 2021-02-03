@@ -1,0 +1,25 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\misc
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM            14,604 enchanted_item_glint.png
+02/03/2021  03:56 PM                40 enchanted_item_glint.png.mcmeta
+02/03/2021  03:56 PM               134 forcefield.png
+02/03/2021  03:56 PM            14,272 nausea.png
+02/03/2021  03:56 PM             9,502 powder_snow_outline.png
+02/03/2021  03:56 PM            12,296 pumpkinblur.png
+02/03/2021  03:56 PM                41 pumpkinblur.png.mcmeta
+02/03/2021  03:56 PM               589 shadow.png
+02/03/2021  03:56 PM                42 shadow.png.mcmeta
+02/03/2021  03:56 PM             1,000 spyglass_scope.png
+02/03/2021  03:56 PM               217 underwater.png
+02/03/2021  03:56 PM            11,852 unknown_pack.png
+02/03/2021  03:56 PM            11,083 unknown_server.png
+02/03/2021  03:56 PM            12,303 vignette.png
+02/03/2021  03:56 PM                41 vignette.png.mcmeta
+              16 File(s)         88,016 bytes
+               2 Dir(s)  37,123,465,216 bytes free

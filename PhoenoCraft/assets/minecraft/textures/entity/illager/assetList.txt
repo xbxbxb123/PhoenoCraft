@@ -1,0 +1,18 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\illager
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,209 evoker.png
+02/03/2021  03:56 PM               599 evoker_fangs.png
+02/03/2021  03:56 PM             1,568 illusioner.png
+02/03/2021  03:56 PM               970 pillager.png
+02/03/2021  03:56 PM             3,422 ravager.png
+02/03/2021  03:56 PM               910 vex.png
+02/03/2021  03:56 PM             1,275 vex_charging.png
+02/03/2021  03:56 PM             1,519 vindicator.png
+               9 File(s)         11,472 bytes
+               2 Dir(s)  37,124,653,056 bytes free

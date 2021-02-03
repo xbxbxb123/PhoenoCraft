@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\cow
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,150 brown_mooshroom.png
+02/03/2021  03:56 PM             1,122 cow.png
+02/03/2021  03:56 PM             1,103 red_mooshroom.png
+               4 File(s)          3,375 bytes
+               2 Dir(s)  37,124,861,952 bytes free

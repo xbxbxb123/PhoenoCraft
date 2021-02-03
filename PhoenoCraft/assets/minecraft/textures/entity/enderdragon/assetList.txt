@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\enderdragon
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             5,514 dragon.png
+02/03/2021  03:56 PM            35,984 dragon_exploding.png
+02/03/2021  03:56 PM             1,494 dragon_eyes.png
+02/03/2021  03:56 PM               231 dragon_fireball.png
+               5 File(s)         43,223 bytes
+               2 Dir(s)  37,124,861,952 bytes free

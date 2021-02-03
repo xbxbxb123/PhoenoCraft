@@ -1,0 +1,16 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\llama
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,708 brown.png
+02/03/2021  03:56 PM             1,524 creamy.png
+02/03/2021  03:24 PM    <DIR>          decor
+02/03/2021  03:56 PM             1,616 gray.png
+02/03/2021  03:56 PM               156 spit.png
+02/03/2021  03:56 PM             1,640 white.png
+               6 File(s)          6,644 bytes
+               3 Dir(s)  37,124,583,424 bytes free

@@ -1,0 +1,31 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\gui
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:56 PM               684 accessibility.png
+02/03/2021  03:24 PM    <DIR>          advancements
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,833 bars.png
+02/03/2021  03:56 PM             7,914 book.png
+02/03/2021  03:56 PM               668 checkbox.png
+02/03/2021  03:24 PM    <DIR>          container
+02/03/2021  03:56 PM               632 demo_background.png
+02/03/2021  03:56 PM             8,082 icons.png
+02/03/2021  03:56 PM               949 options_background.png
+02/03/2021  03:24 PM    <DIR>          presets
+02/03/2021  03:56 PM             3,263 recipe_book.png
+02/03/2021  03:56 PM               857 recipe_button.png
+02/03/2021  03:56 PM               759 resource_packs.png
+02/03/2021  03:56 PM             1,444 server_selection.png
+02/03/2021  03:56 PM             1,925 social_interactions.png
+02/03/2021  03:56 PM             1,178 spectator_widgets.png
+02/03/2021  03:56 PM               642 stream_indicator.png
+02/03/2021  03:24 PM    <DIR>          title
+02/03/2021  03:56 PM             2,377 toasts.png
+02/03/2021  03:56 PM            15,444 widgets.png
+02/03/2021  03:56 PM             1,131 world_selection.png
+              18 File(s)         49,782 bytes
+               6 Dir(s)  37,123,604,480 bytes free

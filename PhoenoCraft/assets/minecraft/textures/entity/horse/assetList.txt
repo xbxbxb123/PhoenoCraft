@@ -1,0 +1,26 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\horse
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM    <DIR>          armor
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,911 donkey.png
+02/03/2021  03:56 PM             1,657 horse_black.png
+02/03/2021  03:56 PM             1,781 horse_brown.png
+02/03/2021  03:56 PM             1,853 horse_chestnut.png
+02/03/2021  03:56 PM             1,891 horse_creamy.png
+02/03/2021  03:56 PM             1,665 horse_darkbrown.png
+02/03/2021  03:56 PM             1,535 horse_gray.png
+02/03/2021  03:56 PM             1,781 horse_markings_blackdots.png
+02/03/2021  03:56 PM               226 horse_markings_white.png
+02/03/2021  03:56 PM             1,311 horse_markings_whitedots.png
+02/03/2021  03:56 PM             1,436 horse_markings_whitefield.png
+02/03/2021  03:56 PM             2,421 horse_skeleton.png
+02/03/2021  03:56 PM             2,773 horse_white.png
+02/03/2021  03:56 PM             2,926 horse_zombie.png
+02/03/2021  03:56 PM             1,897 mule.png
+              16 File(s)         27,064 bytes
+               3 Dir(s)  37,124,722,688 bytes free

@@ -1,0 +1,18 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\rabbit
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               664 black.png
+02/03/2021  03:56 PM               671 brown.png
+02/03/2021  03:56 PM               700 caerbannog.png
+02/03/2021  03:56 PM               709 gold.png
+02/03/2021  03:56 PM               808 salt.png
+02/03/2021  03:56 PM               785 toast.png
+02/03/2021  03:56 PM               683 white.png
+02/03/2021  03:56 PM               850 white_splotched.png
+               9 File(s)          5,870 bytes
+               2 Dir(s)  37,124,444,160 bytes free

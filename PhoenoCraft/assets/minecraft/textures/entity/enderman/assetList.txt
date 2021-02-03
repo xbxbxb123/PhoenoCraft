@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\enderman
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               471 enderman.png
+02/03/2021  03:56 PM             1,158 enderman_eyes.png
+               3 File(s)          1,629 bytes
+               2 Dir(s)  37,124,861,952 bytes free

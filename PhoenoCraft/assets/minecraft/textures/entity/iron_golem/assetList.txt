@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\iron_golem
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             2,842 iron_golem.png
+02/03/2021  03:56 PM             1,632 iron_golem_crackiness_high.png
+02/03/2021  03:56 PM             1,641 iron_golem_crackiness_low.png
+02/03/2021  03:56 PM             1,720 iron_golem_crackiness_medium.png
+               5 File(s)          7,835 bytes
+               2 Dir(s)  37,124,653,056 bytes free

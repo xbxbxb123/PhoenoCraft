@@ -1,0 +1,23 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\cat
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:56 PM               738 all_black.png
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               658 black.png
+02/03/2021  03:56 PM               711 british_shorthair.png
+02/03/2021  03:56 PM               841 calico.png
+02/03/2021  03:56 PM               127 cat_collar.png
+02/03/2021  03:56 PM               904 jellie.png
+02/03/2021  03:56 PM               803 ocelot.png
+02/03/2021  03:56 PM               699 persian.png
+02/03/2021  03:56 PM               764 ragdoll.png
+02/03/2021  03:56 PM             1,091 red.png
+02/03/2021  03:56 PM               789 siamese.png
+02/03/2021  03:56 PM               894 tabby.png
+02/03/2021  03:56 PM               737 white.png
+              14 File(s)          9,756 bytes
+               2 Dir(s)  37,125,001,216 bytes free

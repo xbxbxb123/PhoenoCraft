@@ -1,0 +1,30 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\villager\profession
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:56 PM             1,053 armorer.png
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM               837 butcher.png
+02/03/2021  03:56 PM                53 butcher.png.mcmeta
+02/03/2021  03:56 PM               405 cartographer.png
+02/03/2021  03:56 PM               547 cleric.png
+02/03/2021  03:56 PM               954 farmer.png
+02/03/2021  03:56 PM                50 farmer.png.mcmeta
+02/03/2021  03:56 PM               810 fisherman.png
+02/03/2021  03:56 PM                50 fisherman.png.mcmeta
+02/03/2021  03:56 PM               721 fletcher.png
+02/03/2021  03:56 PM                50 fletcher.png.mcmeta
+02/03/2021  03:56 PM               624 leatherworker.png
+02/03/2021  03:56 PM               598 librarian.png
+02/03/2021  03:56 PM                50 librarian.png.mcmeta
+02/03/2021  03:56 PM               516 mason.png
+02/03/2021  03:56 PM               561 nitwit.png
+02/03/2021  03:56 PM               814 shepherd.png
+02/03/2021  03:56 PM                50 shepherd.png.mcmeta
+02/03/2021  03:56 PM               947 toolsmith.png
+02/03/2021  03:56 PM             1,198 weaponsmith.png
+              21 File(s)         10,888 bytes
+               2 Dir(s)  37,124,165,632 bytes free

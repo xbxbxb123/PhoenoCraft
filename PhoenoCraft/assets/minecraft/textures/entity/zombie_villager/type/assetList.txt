@@ -1,0 +1,17 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\entity\zombie_villager\type
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM             1,234 desert.png
+02/03/2021  03:56 PM             1,167 jungle.png
+02/03/2021  03:56 PM             1,131 plains.png
+02/03/2021  03:56 PM             1,136 savanna.png
+02/03/2021  03:56 PM             1,450 snow.png
+02/03/2021  03:56 PM             1,380 swamp.png
+02/03/2021  03:56 PM             1,250 taiga.png
+               8 File(s)          8,748 bytes
+               2 Dir(s)  37,124,022,272 bytes free

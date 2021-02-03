@@ -1,0 +1,17 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-A8AB
+
+ Directory of C:\Users\Ben\Desktop\PhoenoCraft\assets\minecraft\textures\gui\title\background
+
+02/03/2021  03:24 PM    <DIR>          .
+02/03/2021  03:24 PM    <DIR>          ..
+02/03/2021  03:24 PM                 0 assetList.txt
+02/03/2021  03:56 PM                85 panorama_0.png
+02/03/2021  03:56 PM                85 panorama_1.png
+02/03/2021  03:56 PM                85 panorama_2.png
+02/03/2021  03:56 PM                85 panorama_3.png
+02/03/2021  03:56 PM                85 panorama_4.png
+02/03/2021  03:56 PM                85 panorama_5.png
+02/03/2021  03:56 PM                86 panorama_overlay.png
+               8 File(s)            596 bytes
+               2 Dir(s)  37,123,674,112 bytes free
