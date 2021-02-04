@@ -1,3 +1,6 @@
+THIS PROJECT HAS BEEN MOVED TO GOOGLE DRIVE FOR CONVENIENCE
+https://drive.google.com/drive/folders/1Q6LHSHK-9B4bVvh2awcf4iqNM84ADU8B?usp=sharing
+
 # PhoenoCraft
 A Minecraft resource pack based on the game Phoenotopia Awakening.
 
